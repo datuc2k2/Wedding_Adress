@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\doAnG37.bundle.scp.css",
+      "PackagePath": "staticwebassets\\doAnG37.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\6617555625047.mp4",
+      "PackagePath": "staticwebassets\\Image\\6617555625047.mp4"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay1.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay1_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay1_1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay1_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay1_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay1_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay1_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay2.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay2_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay2_1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay2_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay2_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay2_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay2_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay2_4.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay2_4.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay3.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay3_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay3_1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay3_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay3_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay3_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay3_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay4.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay4.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay4_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay4_1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay4_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay4_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay4_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay4_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay4_4.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay4_4.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay5.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay5.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay5_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay5_1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay5_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay5_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay5_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay5_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay6.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay6.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay6_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay6_1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay6_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay6_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\banchay6_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\banchay6_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\cothesethich1.jpg",
+      "PackagePath": "staticwebassets\\Image\\cothesethich1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\cothesethich2.jpg",
+      "PackagePath": "staticwebassets\\Image\\cothesethich2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\cothesethich3.jpg",
+      "PackagePath": "staticwebassets\\Image\\cothesethich3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\cothesethich4.jpg",
+      "PackagePath": "staticwebassets\\Image\\cothesethich4.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\cothesethich5.jpg",
+      "PackagePath": "staticwebassets\\Image\\cothesethich5.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\cothesethich6.jpg",
+      "PackagePath": "staticwebassets\\Image\\cothesethich6.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\iconFB.png",
+      "PackagePath": "staticwebassets\\Image\\iconFB.png"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\iconIns.png",
+      "PackagePath": "staticwebassets\\Image\\iconIns.png"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\iconTikTok.png",
+      "PackagePath": "staticwebassets\\Image\\iconTikTok.png"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\logo192.png",
+      "PackagePath": "staticwebassets\\Image\\logo192.png"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi1.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi1_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi1_1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi1_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi1_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi1_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi1_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi1_4.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi1_4.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi2.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi2_!.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi2_!.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi2_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi2_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi2_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi2_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi2_4.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi2_4.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi3.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi3_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi3_1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi3_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi3_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi3_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi3_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi4.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi4.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi4_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi4_1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi4_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi4_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi4_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi4_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi4_4.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi4_4.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi5.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi5.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi5_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi5_1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi5_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi5_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi5_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi5_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi5_4.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi5_4.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi6._1jpg.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi6._1jpg.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi6.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi6.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi6_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi6_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi6_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi6_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\mathangmoi6_4.jpg",
+      "PackagePath": "staticwebassets\\Image\\mathangmoi6_4.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\noibat1.jpg",
+      "PackagePath": "staticwebassets\\Image\\noibat1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\notbat1_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\notbat1_1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\notbat1_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\notbat1_2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\notbat1_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\notbat1_3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\storyHomePage.jpg",
+      "PackagePath": "staticwebassets\\Image\\storyHomePage.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\topic1.jpg",
+      "PackagePath": "staticwebassets\\Image\\topic1.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\topic2.jpg",
+      "PackagePath": "staticwebassets\\Image\\topic2.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\Image\\topic3.jpg",
+      "PackagePath": "staticwebassets\\Image\\topic3.jpg"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\js\\SmoothScroll.js",
+      "PackagePath": "staticwebassets\\js\\SmoothScroll.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\js\\script.min.js",
+      "PackagePath": "staticwebassets\\js\\script.min.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Support\\doAnG37\\doAnG37\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.doAnG37.props",
+      "PackagePath": "build\\doAnG37.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.doAnG37.props",
+      "PackagePath": "buildMultiTargeting\\doAnG37.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.doAnG37.props",
+      "PackagePath": "buildTransitive\\doAnG37.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.doAnG37.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

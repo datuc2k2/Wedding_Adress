@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\doAnG37.props" />
+</Project>
