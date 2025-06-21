@@ -1,0 +1,243 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Câu Chuyện Váy Cưới</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        a{
+            text-decoration:none;
+        }
+        /* Hiệu ứng hover cho ảnh */
+        .story-image {
+          transition: transform 0.3s ease-in-out;
+        }
+        .story-image:hover {
+          transform: scale(1.02);
+        }
+        /* Hiệu ứng fade-in khi cuộn */
+        .fade-in {
+          opacity: 0;
+          transform: translateY(20px);
+          transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+        }
+        .fade-in.visible {
+          opacity: 1;
+          transform: translateY(0);
+        }
+        /* Sticky navigation */
+        .sticky-nav {
+          position: sticky;
+          top: 0;
+          z-index: 10;
+        }
+        /* Story section */
+        .story-section {
+          display: flex;
+          flex-direction: row;
+          align-items: stretch; /* Đảm bảo các phần tử con có chiều cao bằng nhau */
+        }
+        /* Ảnh */
+        .story-image {
+          width: 50%;
+          height: auto; /* Bỏ chiều cao cố định */
+          object-fit: cover; /* Giữ tỷ lệ ảnh */
+        }
+        /* Nội dung */
+        .story-content {
+          width: 50%;
+          padding: 2rem; /* Giữ padding như cũ */
+          display: flex;
+          flex-direction: column;
+          justify-content: center; /* Căn giữa nội dung theo chiều dọc nếu cần */
+        }
+        /* Responsive layout */
+        @@media (max-width: 768px) {
+          .story-section {
+            flex-direction: column;
+          }
+          .story-image {
+            width: 100%;
+            height: 300px; /* Chiều cao cố định cho mobile */
+          }
+          .story-content {
+            width: 100%;
+          }
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-12" style="margin-top:70px">
+        <div class="space-y-16">
+            <!-- Story 1 -->
+            <section id="story1" class="bg-white rounded-lg shadow-lg fade-in story-section flex flex-row">
+                <img src="~/Image/story3.png" alt="Váy cưới 1" class="story-image">
+                <div class="story-content">
+                    <h2 class="text-2xl font-semibold text-rose-600 mb-4">Lời hứa muộn màng</h2>
+                    <p class="text-gray-700 text-lg leading-relaxed">
+                        Chia sẻ từ anh Cường – khách hàng của Dreamy Love Bridal:
+
+                        “Tôi và vợ đã bên nhau 3 năm, có với nhau một bé trai gần 2 tuổi. Chúng tôi từng mơ về một đám cưới giản dị, ấm cúng — nhưng cuộc sống quả không dễ dàng. Lo toan cơm áo gạo tiền, chi phí sinh hoạt, nuôi con… khiến giấc mơ ấy phải ngậm ngùi gác lại. Tôi luôn cảm thấy mình nợ vợ một lời hứa chưa thực hiện: được mặc chiếc váy cưới của riêng mình, được bước đi trong ngày trọng đại như bao cô gái khác.
+
+                        Gần đây, khi tài chính dần ổn định hơn, điều đầu tiên tôi muốn làm là dành tặng vợ một điều mà cô ấy đã âm thầm đánh đổi: một chiếc váy cưới thực sự — không phải thuê, không phải mua lại, mà là một kỷ vật của riêng cô ấy. Tôi đã tìm thấy Dreamy Love Bridal trong một lần tình cờ. Chiếc váy khiến cô ấy rơi nước mắt khi mặc thử — không phải vì sự lộng lẫy, mà vì cô ấy biết, cuối cùng cũng có một điều dành riêng cho mình.
+
+                        Cảm ơn Dreamy Love vì đã giúp chúng tôi có một kỷ niệm thực sự đẹp đẽ, không cần xa hoa, chỉ cần đúng lúc và chân thành. Những gì thương hiệu đang làm — mang những chiếc váy cưới chất lượng, tinh tế nhưng vừa tầm tay — là điều ý nghĩa cho những gia đình trẻ như chúng tôi.”
+                    </p>
+                </div>
+            </section>
+
+            <!-- Story 2 -->
+            <section id="story2" class="bg-white rounded-lg shadow-lg fade-in story-section flex flex-row">
+                <img src="~/Image/story9.jpg" alt="Váy cưới 2" class="story-image">
+                <div class="story-content">
+                    <h2 class="text-2xl font-semibold text-rose-600 mb-4">A dream come true: Câu Chuyện Của Cô Dâu Ngọc Anh</h2>
+                    <p class="text-gray-700 text-lg leading-relaxed">
+                        "Từ bé, tôi đã mê mẩn vẽ những chiếc váy cưới trong cuốn sổ tay của mình. Chiếc váy ấy có đường ren tinh xảo, cổ vuông thanh lịch, hàng cúc lưng cài dọc và lớp voan dài thướt tha chạm đất. Hình ảnh ấy cứ thế theo tôi lớn lên, ấp ủ một giấc mơ về ngày trọng đại. Nhưng khi trưởng thành, tôi mới nhận ra, những mẫu váy 'trong mơ' thường đi kèm với mức giá 'trong mơ' khác – mức giá mà tôi từng nghĩ mình sẽ phải tạm hài lòng với một chiếc váy thuê.
+
+                        Thế nhưng, Dreamy Love Bridal đã biến điều không thể thành có thể! Họ cho phép tôi tùy chỉnh mẫu váy có sẵn, và chính điều đó đã chắp cánh cho giấc mơ thời thơ ấu của tôi bay cao. Tôi đã được thêm ren, thay đổi kiểu cổ, điều chỉnh phần tay áo – từng chi tiết đều được chăm chút tỉ mỉ, đúng như những gì tôi từng vẽ.
+
+                        Khoảnh khắc khoác lên mình chiếc váy ấy, tôi không chỉ cảm thấy mình là một cô dâu, mà còn là đứa trẻ từng ước mơ được trở thành công chúa trong chính câu chuyện cổ tích của mình. Cảm ơn Dreamy Love đã giúp tôi hiện thực hóa giấc mơ, để ngày cưới của tôi không chỉ là ngày hạnh phúc mà còn là ngày giấc mơ tuổi thơ được vẹn tròn!"
+                    </p>
+                </div>
+            </section>
+
+            <!-- Story 3 -->
+            <section id="story3" class="bg-white shadow-lg fade-in story-section rounded-lg">
+                <img src="~/Image/story5.jpg" alt="Váy cưới 3" class="story-image">
+                <div class="story-content">
+                    <h2 class="text-2xl font-semibold text-rose-600 mb-4">Kỷ Vật Nối Kết Ba Thế Hệ – Câu Chuyện Của Minh Hằng</h2>
+                    <p class="text-gray-700 text-lg leading-relaxed">
+                        Mẹ tôi kết hôn vào năm 1987, một thời điểm mà đám cưới còn rất giản dị. Không sân khấu lộng lẫy, không váy cưới xa hoa. Mẹ chỉ mặc một bộ áo dài trắng tinh khôi do bà ngoại để lại, tóc búi gọn gàng và lớp trang điểm nhẹ. Tôi lớn lên cùng những tấm ảnh cưới cũ kỹ, thỉnh thoảng vẫn lật ra ngắm nghía. Ngày bé, tôi từng hỏi mẹ: "Sao mẹ không mặc váy cưới như trong phim công chúa ạ?". Mẹ chỉ cười rồi bảo: "Hồi đó khổ, có gì mặc nấy con ạ, quan trọng là người mình cưới." Nhưng trong ánh mắt mẹ, tôi vẫn thấy thoảng qua một chút tiếc nuối.
+
+                        Đến lượt mình làm cô dâu, điều đầu tiên tôi làm là mời mẹ đi chọn váy cùng. Khoảnh khắc tôi bước ra từ phòng thử trong chiếc váy cưới cổ điển, mẹ tôi lặng im. Bà chỉ nhìn tôi thật lâu. Tôi biết, mẹ không chỉ nhìn thấy một chiếc váy, mà là nhìn thấy chính mình của hơn 30 năm trước, với một ước mơ cũ đang được hiện thực hóa qua con gái. Tôi chọn chiếc váy có thiết kế kín đáo, thanh lịch, rồi chỉnh nhẹ phần eo và tay áo để vừa vặn với vóc dáng mình. Không phải để chạy theo xu hướng, mà để chiếc váy này có thể trường tồn cùng thời gian. Có lẽ sau này, tôi cũng sẽ đưa lại chiếc váy ấy, như một món quà, một kỷ niệm đẹp.
+
+                        Dreamy Love đã giúp tôi tìm được một mối liên kết vô hình giữa ba thế hệ phụ nữ trong gia đình. Tôi sẽ giữ gìn chiếc váy này thật cẩn thận, như một kỷ vật thiêng liêng, một lời nhắc dịu dàng rằng: tình yêu, ký ức và vẻ đẹp đích thực luôn là vĩnh cửu.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Story 4 -->
+            <section id="story4" class="bg-white rounded-lg shadow-lg fade-in story-section">
+                <img src="~/Image/story4.jpg" alt="Váy cưới 4" class="story-image">
+                <div class="story-content">
+                    <h2 class="text-2xl font-semibold text-rose-600 mb-4">Hành trình từ con số đến – Chị Nguyễn Thanh</h2>
+                    <p class="text-gray-700 text-lg leading-relaxed">
+                        "Tôi bắt đầu hành trình tự lập từ năm tuổi, khi cánh cửa đại học mở ra cũng là lúc tôi phải tự xoay sở mọi thứ: tiền nhà, học phí, chi tiêu hàng ngày. Đám cưới đối với tôi không chỉ là một ngày vui, mà còn là dấu mốc thiêng liêng cho cả một chặng đường trưởng thành đầy gian nan. Tôi từng nghĩ mình sẽ thuê một chiếc váy cưới để tiết kiệm chi phí, nhưng càng nghĩ, tôi lại càng khát khao có một điều gì đó thật sự thuộc về mình, một kỷ niệm hữu hình cho tất cả những nỗ lực thầm lặng đã qua.
+
+                        Rồi một ngày, khi đang lướt TikTok tìm kiếm những mẹo cưới hỏi tiết kiệm, tôi bắt gặp một video về Dreamy Love Bridal. Ngay lập tức, tôi bị thu hút bởi những chiếc váy cưới không chỉ có mức giá phải chăng mà thiết kế lại vô cùng sang trọng, tinh tế. Tôi ấn vào xem thử, và rồi trái tim tôi như vỡ òa: Đây chính xác là điều tôi đang tìm kiếm!
+
+                        Tôi chọn một mẫu váy cổ chữ V thanh lịch, tay lửng nhẹ nhàng, và nhờ cửa hàng chỉnh phần đuôi váy ngắn lại để dễ dàng di chuyển. Khoảnh khắc tôi đứng trước gương, ngắm nhìn hình ảnh mình trong chiếc váy cưới ấy, tôi không chỉ thấy một cô dâu. Tôi thấy một người phụ nữ đang bước vào chương mới của cuộc đời, với tất cả niềm tự hào vỡ òa vì những gì mình đã vượt qua. Cảm ơn Dreamy Love, vì đã giúp tôi cảm thấy mình hoàn toàn xứng đáng với khoảnh khắc diệu kỳ ấy."
+                    </p>
+                </div>
+            </section>
+
+            <!-- Story 5 -->
+            <section id="story5" class="bg-white rounded-lg shadow-lg fade-in story-section">
+                <img src="~/Image/story6.png" alt="Váy cưới 5" class="story-image">
+                <div class="story-content">
+                    <h2 class="text-2xl font-semibold text-rose-600 mb-4">Tôi sợ phải mặc váy cưới – Trần Thảo</h2>
+                    <p class="text-gray-700 text-lg leading-relaxed">
+                        “Tôi là kỹ sư xây dựng, thường xuyên đi công trình, tay chân lúc nào cũng lấm lem xi măng. Bạn bè đùa rằng không tưởng tượng được tôi mặc váy cưới sẽ ra sao. Nhưng tôi vẫn luôn có một giấc mơ bé nhỏ: ngày cưới của mình, tôi muốn được dịu dàng một lần, được khoác lên người chiếc váy lộng lẫy như bao cô gái khác.”
+
+                        “Tôi tìm đến Dreamy Love với đôi tay sạm nắng và một ước mơ đơn giản. Cô nhân viên không nhìn tôi bằng ánh mắt phán xét mà ân cần giúp tôi chọn từng mẫu váy phù hợp vóc dáng khỏe khoắn. Tôi chọn một chiếc váy satin trơn, không quá cầu kỳ, và yêu cầu thiết kế phần lưng hở tinh tế – vừa mạnh mẽ, vừa nữ tính. Hôm đó, khi thử váy, tôi soi mình trong gương rất lâu. Đó là khoảnh khắc tôi thấy mình thật đẹp. Lần đầu tiên.”
+                    </p>
+                </div>
+            </section>
+
+            <!-- Story 6 -->
+            <section id="story6" class="bg-white rounded-lg shadow-lg fade-in story-section">
+                <img src="~/Image/story8.png" alt="Váy cưới 6" class="story-image">
+                <div class="story-content">
+                    <h2 class="text-2xl font-semibold text-rose-600 mb-4">Đám cưới không có chú rể – Phương Linh</h2>
+                    <p class="text-gray-700 text-lg leading-relaxed">
+                        “Chúng tôi đã đính hôn. Kế hoạch cưới diễn ra đúng tiến độ: đặt nhà hàng, chọn nhẫn, chọn váy. Nhưng chỉ vài tháng trước lễ cưới, anh nói lời chia tay. Không phản bội, không cãi vã. Chỉ là anh nhận ra mình chưa sẵn sàng. Còn tôi – sau một đêm khóc cạn nước mắt – đã quyết định: đám cưới vẫn sẽ diễn ra, nhưng chỉ có mình tôi. Vì giấc mơ về ngày mặc váy cưới chưa bao giờ là điều tôi vay mượn từ ai khác.”
+
+                        “Tôi đến Dreamy Love với một tâm trạng lẫn lộn. Nhưng các bạn nhân viên không hỏi nhiều. Họ lắng nghe, đề xuất cho tôi một mẫu váy nhẹ nhàng, không quá kiêu kỳ nhưng vẫn đủ để khiến tôi thấy mình đẹp – cho chính mình. Tôi tổ chức một buổi tiệc nhỏ với gia đình, bạn thân, mặc chiếc váy trắng ấy, và mỉm cười bước đi trên con đường tôi đã chọn. Đó không phải là cái kết buồn. Đó là khởi đầu cho một hành trình mới – nơi tôi là nhân vật chính, không phải chờ ai dẫn dắt, và vẫn đẹp theo cách rất riêng của mình.”
+                    </p>
+                </div>
+            </section>
+
+            <!-- Story 7 -->
+            <section id="story7" class="bg-white rounded-lg shadow-lg fade-in story-section">
+                <img src="~/Image/story7.png" alt="Váy cưới 7" class="story-image">
+                <div class="story-content">
+                    <h2 class="text-2xl font-semibold text-rose-600 mb-4">Câu chuyện về hai cô dâu – An Vy</h2>
+                    <p class="text-gray-700 text-lg leading-relaxed">
+                        “Tôi là người đồng tính nữ. Nhiều năm trước, tôi từng nghĩ đám cưới chỉ là một giấc mơ xa xỉ – vì xã hội còn nhiều định kiến, và vì tôi không chắc liệu mình có được chấp nhận. Nhưng rồi tôi gặp Trang. Tình yêu của cô ấy đủ vững chãi để kéo tôi ra khỏi vùng an toàn. Khi chúng tôi quyết định tổ chức lễ cưới, tôi là người đề nghị cả hai đều mặc váy – không phải vì truyền thống, mà vì tôi muốn một lần nhìn thấy chính mình trong phiên bản dịu dàng nhất.”
+
+                        “Tôi tổ chức đám cưới với sự lo lắng – sợ người ta nhìn mình khác. Nhưng hoàn toàn không có ánh mắt phán xét nào khi tôi lựa chọn Dreamy Love, chỉ có những lời gợi ý chân thành: ‘Chị muốn váy có cá tính nhẹ hay dịu dàng hơn ạ?’. Tôi chọn một mẫu thiết kế vai ngang, vạt chéo, được chỉnh phần lưng để hợp với vóc dáng và cả dáng đi có phần mạnh mẽ của mình. Váy cưới không cần phải dành riêng cho một hình mẫu nào. Cảm ơn Dreamy Love – vì đã tạo không gian cho tôi được là chính mình, mà vẫn trọn vẹn là một cô dâu.”
+                    </p>
+                </div>
+            </section>
+
+            <!-- Story 8 -->
+            <section id="story8" class="bg-white rounded-lg shadow-lg fade-in story-section">
+                <img src="~/Image/story2.png" alt="Váy cưới 8" class="story-image">
+                <div class="story-content">
+                    <h2 class="text-2xl font-semibold text-rose-600 mb-4">Một giấc mơ dang dở – Hồng Mai</h2>
+                    <p class="text-gray-700 text-lg leading-relaxed">
+                        “Tôi từng là sinh viên năm hai ngành Điều dưỡng. Học giỏi, nhiều ước mơ, nhưng rồi phải nghỉ học giữa chừng vì gia đình xảy ra chuyện, và vì tôi có thai. Không ai ép, nhưng tôi hiểu nếu tiếp tục, sẽ có quá nhiều người khổ theo. Tôi chọn gia đình. Và chọn anh ###### – người đã không quay lưng khi mọi thứ trở nên khó khăn. Dẫu vậy, khi đến gần ngày cưới, tôi thấy lòng nặng trĩu: những thứ đơn giản như một chiếc váy cưới đẹp – thứ tôi từng mơ nay cũng trở nên xa xỉ.”
+
+                        “Một người bạn gửi cho tôi đường dẫn Dreamy Love Bridal. Tôi lướt qua và dừng lại thật lâu trước những thiết kế quá đẹp so với tầm giá. Tôi nhắn tin, chia sẻ thẳng tình hình tài chính và mong được gợi ý mẫu nào vừa túi tiền. Không ai phán xét. Chỉ có sự tận tình. Họ gợi ý cho tôi một chiếc váy dáng A, chất liệu nhẹ, form cổ điển – vừa trang nhã, vừa dễ di chuyển khi bụng đã lớn. Nhìn mình trong gương, tôi đã bật khóc. Dù không thể tiếp tục giấc mơ đại học, ít nhất tôi đã không từ bỏ giấc mơ được làm cô dâu, theo cách xứng đáng nhất có thể.”
+                    </p>
+                </div>
+            </section>
+
+            <!-- Story 9 -->
+            <section id="story9" class="bg-white rounded-lg shadow-lg fade-in story-section">
+                <img src="~/Image/story1.png" alt="Váy cưới 9" class="story-image">
+                <div class="story-content">
+                    <h2 class="text-2xl font-semibold text-rose-600 mb-4">Gửi tôi, người không hoàn hảo – Nguyễn Như</h2>
+                    <p class="text-gray-700 text-lg leading-relaxed">
+                        “Tôi là một cô dâu hơi… khác chuẩn. Ngoài hơn 30 tuổi, cơ thể không thon gọn, chiều cao khiêm tốn, lại hay tự ti vì bắp tay to. Bạn bè rủ đi thử váy, tôi toàn từ chối. Tôi sợ mình sẽ không đẹp trong chiếc váy cưới – thứ vốn được mặc định dành cho những cô gái mảnh mai, tươi trẻ. Nhưng người yêu tôi thì luôn nói: Em không cần phải giống ai cả. Chỉ cần là chính em thôi.”
+
+                        “Chính sự động viên ấy khiến tôi dũng cảm đến Dreamy Love. Và điều khiến tôi bất ngờ là các bạn ở đây không hề nói: chị nên giảm cân trước lễ cưới, hay dáng mình thì nên chọn mẫu che khuyết điểm. Họ chỉ hỏi: Chị muốn thể hiện hình ảnh của mình như thế nào? Chị muốn chiếc váy của mình ra sao?. Tôi chọn một chiếc váy được chỉnh riêng phần tay bồng nhẹ, điểm ren ở eo để tạo cảm giác thanh thoát hơn. Khi tôi bước ra khỏi phòng thử, lần đầu tiên tôi thấy mình đẹp – không phải vì váy che đáp ứng được khuyết điểm, mà vì nó ôm trọn con người thật của tôi.”
+                    </p>
+            </div>
+        </section>
+
+            <!-- Story 10 -->
+            <section id="story10" class="bg-white rounded-lg shadow-lg fade-in story-section">
+                <img src="~/Image/story10.png" alt="Váy cưới 10" class="story-image">
+                <div class="story-content">
+                    <h2 class="text-2xl font-semibold text-rose-600 mb-4>Cô dâu mộng mơ – Lê Khánh An</h2>
+                    <p class="text-gray-700 text-lg leading-relaxed>
+                        “Tôi luôn tin mình là một nàng công chúa… chỉ là sống lạc điều. Từ nhỏ, tôi đã mê váy bồng, mê hoa cỏ,, mê những chuyện tình yêu kiểu cổ tích – nơi mà tình yêu luôn chiến thắng, và cô dâu được bước đi trên nền nhạc dịu dàng, váy xoè nhẹ trong ánh hoàng hôn. Bạn bè gọi tôi là ‘bánh bèo’, người yêu tôi thì hay cười: Rồi em tính mặc váy công chúa hôm cưới à? Nhưng anh ấy biết – tôi thực sự muốn ngày cưới là khoảnh khắc mơ mộng nhất trong đời.”
+
+                        “Dreamy Love là nơi tôi tìm thấy giấc mơ ấy. Tôi chọn một chiếc váy có lớp voan mềm mại trước, phần tay dài xuyên thấu thêu hoa li ti, cổ vuông nhẹ – nhìn như bước ra từ một khu rừng cổ tích. Các bạn còn hỗ trợ tôi thêm một dải lụa mảnh phía sau lưng để tạo cảm giác như có đôi cánh nhỏ. Tôi không mong muốn mình chỉ là cô dâu đẹp, tôi muốn là phiên bản nữ chính của chính cuộc đời mình. Và Dreamy Love không cười khi tôi nói điều đó – họ hỗ trợ tôi biến nó thành sự thật, bằng tất cả sự tôn trọng với thế giới riêng trong tim tôi.”
+                    </p>
+                </div>
+            </section>
+        </div>
+    </main>
+    <!-- JavaScript cho hiệu ứng fade-in khi cuộn và điều hướng mượt mà -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+          // Hiệu ứng fade-in
+          const elements = document.querySelectorAll('.fade-in');
+          const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+              if (entry.isIntersecting) {
+                entry.target.classList.add('visible');
+                observer.unobserve(entry.target);
+              }
+            });
+          }, { threshold: 0.1 });
+
+          elements.forEach(element => observer.observe(element));
+
+          // Điều hướng mượt mà
+          document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+              e.preventDefault();
+              document.querySelector(this.getAttribute('href')).scrollIntoView({
+                behavior: 'smooth'
+              });
+            });
+          });
+        });
+    </script>
+</body>
+</html>
